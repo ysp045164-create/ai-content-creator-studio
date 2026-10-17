@@ -1,0 +1,53 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AI Content Creator Studio</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f6f3ff;
+      text-align: center;
+      padding: 40px 20px;
+    }
+    h1 { color: #7037c8; }
+    .card {
+      background: white;
+      padding: 25px;
+      border-radius: 16px;
+      max-width: 500px;
+      margin: auto;
+    }
+    button {
+      background: #7037c8;
+      color: white;
+      padding: 12px 20px;
+      border: 0;
+      border-radius: 8px;
+      cursor: pointer;
+    }
+  </style>
+</head>
+<body>
+  <div class="card">
+    <h1>AI Content Creator Studio</h1>
+    <p>Create TikTok advertising content easily!</p>
+    <input type="file" accept="image/*">
+    <p><button onclick="generate()">Generate Content</button></p>
+    <div id="result"></div>
+  </div>
+  <script>
+    function generate() {
+      document.getElementById("result").innerHTML =
+        "<h3>Your Sample TikTok Ad</h3>" +
+        "<p>Hook: Discover your next favourite product!</p>" +
+        "<p>Scene 1: Cinematic product reveal.</p>" +
+        "<p>Scene 2: Showcase product details.</p>" +
+        "<p>Scene 3: Call to action.</p>" +
+        "<p>Demo mode: sample content only.</p>";
+    }
+  </script>
+</body>
+</html>
