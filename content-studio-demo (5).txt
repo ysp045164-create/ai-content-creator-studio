@@ -1,0 +1,22 @@
+PRODUCT: d'AIba
+CATEGORY: Beauty & skincare
+STYLE: Luxury
+DURATION: 15 seconds
+
+VIDEO SCRIPT
+HOOK (0–3s): “Looking for a new beauty & skincare find?”
+DEMO (3–10s): Show d'AIba from three angles. Mention only features you can verify.
+CTA (final seconds): “Want to know more? Check the product details!”
+
+STORYBOARD
+Scene 1: Close-up product reveal with soft lighting.
+Scene 2: Slow camera move across packaging and visible details.
+Scene 3: Product hero shot with a clear call to action.
+
+VIDEO GENERATION PROMPT
+Create a vertical 9:16 luxury product advertisement featuring d'AIba. Show only the reference product, natural lighting, smooth cinematic camera movements, three shots, no unsupported claims, no invented logos or text.
+
+CAPTION
+A closer look at d'AIba! What do you think? #ProductFinds #TikTokIdeas #ContentCreator
+
+Note: Sample template, not AI image analysis.
